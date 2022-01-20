@@ -8,5 +8,8 @@ Technologies Used
 -> WinForms
 -> C#
 
-Algorithm used
+Database Used
+-> MySQL
+
+Algorithm Used
 -> Dijkstra's Algorithm
